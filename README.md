@@ -17,7 +17,7 @@
 - Markdown
 
 и еще (может быть):
-![Docker](docker logo.png)
+![Docker](https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png)
 
 ## Структура проекта
 
