@@ -16,9 +16,32 @@
 - GitHub
 - Markdown
 
+и еще (может быть):
+![Docker](docker logo.png)
+
 ## Структура проекта
 
 ```text
 software-engineering-lab/
 ├── README.md
 └── docs/
+
+## Пользователи:
+```mermaid
+graph TD
+    A[Пользователь] --> B[GitHub]
+    B --> C[Wiki]
+    B --> D[Repository]
+    D --> E[Исходный код]
+```
+## Формула
+$$
+S = \pi r^2
+$$
+
+## План работы
+- [x] Создать GitHub-репозиторий
+- [x] Создать Wiki
+- [x] Добавить документацию
+- [ ] Добавить диаграмму
+- [ ] Провести тестирование
