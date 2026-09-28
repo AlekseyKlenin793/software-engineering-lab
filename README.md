@@ -25,6 +25,7 @@
 software-engineering-lab/
 ├── README.md
 └── docs/
+```
 
 ## Пользователи:
 ```mermaid
